@@ -24,6 +24,6 @@ npm run test
 ```
 npm run lint
 ```
-
+### 20200520 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
